@@ -5,6 +5,6 @@
 # Pong
 ![Screenshot](screenshots/pong.png)
 # TicTacToe
-![Screenshot](screenshots/tictactoe2.png)
+![Screenshot](screenshots/tictactoe.png)
 # Snake
 ![Screenshot](screenshots/snake.png)
